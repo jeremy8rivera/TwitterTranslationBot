@@ -16,14 +16,14 @@ __Example:__
 
 Api necessary:
 - [Twitter API](https://developer.twitter.com/en/)
+- [Google Translate API](https://www.npmjs.com/package/google-translate-api)
 
 Packages Used: 
 - [Twit](https://www.npmjs.com/package/twit)
-- [Google Translate API](https://www.npmjs.com/package/google-translate-api)
 
 __Known Issues__
 - No conditional if text is wrong
 - Tweet response is async
 - Runs on a time interval and not on every mention
 - Doesn't thread tweets
-- I don't know non romance language 'space' characters
+- I don't know non-romance language 'space' characters
